@@ -1,0 +1,85 @@
+{
+  "_args": [
+    [
+      "tarteaucitronjs",
+      "/home/majorduky/LaManu/LAMANU-cookie-law"
+    ]
+  ],
+  "_from": "tarteaucitronjs@latest",
+  "_hasShrinkwrap": false,
+  "_id": "tarteaucitronjs@1.2.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/tarteaucitronjs",
+  "_nodeVersion": "8.12.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/tarteaucitronjs_1.2.0_1542005011185_0.279109605331455"
+  },
+  "_npmUser": {
+    "email": "amauri@aic.agency",
+    "name": "amauri"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "tarteaucitronjs",
+    "raw": "tarteaucitronjs",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/tarteaucitronjs/-/tarteaucitronjs-1.2.0.tgz",
+  "_shasum": "8f22d35a634fcb0bea5cdff845f0bf80f3a9eaf2",
+  "_shrinkwrap": null,
+  "_spec": "tarteaucitronjs",
+  "_where": "/home/majorduky/LaManu/LAMANU-cookie-law",
+  "author": {
+    "name": "AIC Agency SAS"
+  },
+  "bugs": {
+    "url": "https://github.com/AmauriC/tarteaucitron.js/issues"
+  },
+  "dependencies": {},
+  "description": "Comply to the European cookie law",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 18,
+    "integrity": "sha512-dNBtEgvaHeKdKRaQsUpVO7dy7oRJ/Q3XmE8Ma8moAHzrQBBGT5EONqdOmUfOtiEPW5g4UWfUKgoeB3vpaE80iQ==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb6SEUCRA9TVsSAnZWagAAdgoP/in2ec/3hOs0jd40Yi86\nT2sSkcG73Vkcmm/DOd7c+BNTJxxQjRcEbOQlRwsdbrJSUAwT6p/AhaGBwv16\nyXkUkKtE8wJE1/hbqNQBf4TUH6MpxE/4wwnj5wJdIdYg1kMViwCCF+wvtE9Z\nx33uFt61fWVhoCRm/3JvqGO9rSTvDinnaghvW7tnQgxfUDQXsHq4uyejqZfx\nOk5CpV8ihyMs07nk8isF6xQTIMu7ezbTAZsBkFHc+pYjGIzvetO5sgBopwLP\nj3PuZ0RZed0cjCm6Ebt+3sJP+u+npSCpj8dT4T+s6DheX29rcrEwpBkj0eru\nmebcBCSpF5731GUJYDo25AdflJLScI+M0hQZT0/hWSoGSmk2Dj74fIxTWcaS\nTlHCA6TXI+eUI+kis6esFCQflSPrK4MGJBezA4PoeIcrBeniNaz1/DL7x/ct\n5ypJpAe5Ys8hNGE1jmjtdteXsaoOFJSmrh85YT+9qlzyEqbgTH1qbg8VmYCQ\nfDEge4DTa/lFycYsLtAlKpTjPWFqljiAHLVR3NCKXnuI/LH94h7KLZIUjHYQ\nqmBtwzv5fnbzGQc5z8IYz0h9d8ZZgNoKbX3lHOTrYe4DJNiGolk0rcZCX83K\n3x8t8Bgp2dCTUGp1Y6/WF+clSi+doYWEH1klSjd9byJz5NyE1lXEEvriPNl3\nt8R2\r\n=SWv1\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "8f22d35a634fcb0bea5cdff845f0bf80f3a9eaf2",
+    "tarball": "https://registry.npmjs.org/tarteaucitronjs/-/tarteaucitronjs-1.2.0.tgz",
+    "unpackedSize": 226818
+  },
+  "homepage": "https://github.com/AmauriC/tarteaucitron.js#readme",
+  "keywords": [
+    "cookie",
+    "cookie",
+    "gdpr",
+    "law",
+    "rgpd"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "amauri",
+      "email": "amauri@aic.agency"
+    }
+  ],
+  "name": "tarteaucitronjs",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmauriC/tarteaucitron.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.0"
+}
